@@ -1,0 +1,11 @@
+h1{
+    color: rgb(53,131,44);
+}
+
+/*rgb aplica color al igual que el hexadecimal
+  rgba nos permite aplicar Transparencia el cuarto parametro 1 ,.5 , 0 
+*/
+h2
+{
+    color: rgba(49,1,43,.5);
+}

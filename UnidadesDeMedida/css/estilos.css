@@ -1,0 +1,21 @@
+body{
+    font-size: 12px;
+}
+
+/*Valor del em*/
+/*
+    El em representa el valor del elemento padre en el tamaño (Fuente)
+*/
+/*
+div p {
+    font-size: 1em;
+}*/
+
+
+div{
+   background: #000;
+   color: #fff;
+   width: 50%;
+}
+
+

@@ -1,0 +1,41 @@
+/*Selector Universal
+*{
+    margin:0;
+    padding: 0;
+}
+*/
+h1,h2,h3,h4,h5,h6{
+    color:red;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size:40px;
+}
+/*Selector Decendente*/
+p span a{
+    font-size: 30px;
+}
+
+/*Selector por Clase */
+.yellow{
+    color:green;
+}
+
+/*Selector Por Id*/
+#Op
+{
+    color:pink;
+}
+
+p .gw{
+    color:green;
+}
+
+a[href="http://www.google.com"]{
+    color: purple;
+    font-size: 30px;
+}

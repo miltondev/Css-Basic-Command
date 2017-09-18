@@ -1,0 +1,53 @@
+form{
+    width:25%;
+    border: 1px solid gray;
+    margin: 20px;
+    padding: 20px;
+}
+
+label
+{
+    font-size :12px;
+    display: block;
+    width:100%;
+}
+
+textarea{
+    resize: vertical;
+    max-height: 300px;
+}
+
+
+input ,textarea{
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid gray;
+}
+
+textarea:focus,input:focus{
+    border: 1px solid blue;
+}
+
+input[type="submit"]
+{
+    margin-bottom: 0px;
+    background: blue;
+    color: #fff;
+    border:none;
+
+}
+
+input[type="submit"]:hover
+{
+    margin-bottom: 0px;
+    background: red;
+    color: #fff;
+    border:none;
+    cursor: pointer;
+
+}
+

@@ -1,0 +1,23 @@
+/*
+Fondo Normal
+body{
+    background: #f2f2f2;
+}
+*/
+
+/*Fondo con Imagenes*/
+body{
+    background: url(../images/ohno.jpg);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    color: red;
+    background-position: center , 0px;
+}
+
+/*
+div {
+    background: url(../images/ohno.jpg);
+    height: 300px;
+    color: red;
+    background-repeat: no-repeat;
+}*/

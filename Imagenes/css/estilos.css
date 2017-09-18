@@ -1,0 +1,31 @@
+div
+{
+   
+    width: 100%;
+   
+}
+
+img{
+    width:300px;
+    height: auto;
+    display: block;
+    box-shadow: 5px 5px 0px #000000;
+    border-radius: 10px;
+    padding: 10px;
+    border:1px solid black;
+}
+
+/*Centrar Imagenes
+
+img{
+    width:300px;
+    height: auto;
+    display: block;
+    box-shadow: 5px 5px 0px #000000;
+    border-radius: 10px;
+    padding: 10px;
+    border:1px solid black;
+    margin:auto;
+    display:block; --> si no esta en block no se puede centrar
+}
+*/

@@ -1,0 +1,44 @@
+a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin:10px 20px;
+    display: inline-block;
+    background: #3BA7E1;;
+    color:#fff;
+    padding: 10px 20px;
+    box-shadow: 0px 5px 0px #1d64a6;;
+}
+
+
+a:hover
+{
+    box-shadow:0px 2px 0px black; 
+}
+a:active
+{
+    box-shadow: none;
+}
+
+/*
+Sub Clases a la etiqueta A
+
+a:link{
+    color: #DF1338;
+}
+
+a:visited{
+    color:#132;
+  
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: 25px;
+    background: blueviolet;
+    color:white;
+}
+
+a:active{
+    background: #323242;
+}*/
